@@ -29,9 +29,11 @@
     "installer": {
         "0.0.1": {
             "link": [
+                ""
             ],
             "isMega": false,
             "key": [
+                ""
             ],
             "released": false
         }
