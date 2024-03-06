@@ -27,10 +27,13 @@
         }
     },
     "installer": {
-        "versions": [
-            "0.0.1"
-        ],
-        "links": "",
-        "released": false
+        "0.0.1": {
+            "link": [
+            ],
+            "isMega": false,
+            "key": [
+            ],
+            "released": false
+        }
     }
 }
