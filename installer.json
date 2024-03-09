@@ -36,13 +36,13 @@
     "installer": {
         "0.0.1": {
             "link": [
-                ""
+                "https://mega.nz/file/kmUmXKQC"
             ],
-            "isMega": false,
+            "isMega": true,
             "key": [
-                ""
+                "5f3F65czdhx1B_gwIO0gTZgvYq-uPofeN_t4e2BCkWs"
             ],
-            "released": false
+            "released": true
         }
     }
 }
