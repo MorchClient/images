@@ -7,7 +7,10 @@
             "links": ["https://mega.nz/file/ViUXVSSa"],
             "isMega": true,
             "keys": ["wTCDrX4luonu5Yqfboo2xm7hMLFjqexV66AWYudUWdQ"],
-            "released": true
+            "released": true,
+            "instLink":[
+                "https://github.com/MorchClient/resources/raw/jars/morch-0-0-3.jar"
+            ]
         },
         "1.8.8": {
             "versions": [
@@ -23,7 +26,11 @@
                 "9DjIfMWM1DggIBfk1D9QchlaY4Tua7yRRZjL9UxUv2o",
                 "ZVbCdstmZbMm4vRztWn44QaQMllThpfcyLp52YOxUWw"
             ],
-            "released": true
+            "released": true,
+            "instLink":[
+                "https://github.com/MorchClient/resources/raw/jars/morch-0-0-2.jar",
+                "https://github.com/MorchClient/resources/raw/jars/morch-0-0-1.jar"
+            ]
         }
     },
     "installer": {
