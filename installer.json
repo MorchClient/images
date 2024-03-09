@@ -4,10 +4,10 @@
             "versions": [
                 "0.0.3"
             ],
-            "links": [],
+            "links": ["https://mega.nz/file/ViUXVSSa"],
             "isMega": true,
-            "keys": [],
-            "released": false
+            "keys": ["wTCDrX4luonu5Yqfboo2xm7hMLFjqexV66AWYudUWdQ"],
+            "released": true
         },
         "1.8.8": {
             "versions": [
