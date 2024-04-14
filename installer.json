@@ -38,6 +38,14 @@
         }
     },
     "installer": {
+        "0.0.2":{
+            "link": ["https://mega.nz/file/sy8UwAjS"],
+            "isMega":true,
+            "key":[
+                "Kf0rNLfZ-XpXIHeC_P_PEVdDCLk-E4DD83cVj0BrwoY"
+            ],
+            "released": true
+        }
         "0.0.1": {
             "link": [
                 "https://mega.nz/file/kmUmXKQC"
