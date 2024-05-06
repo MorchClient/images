@@ -6,7 +6,8 @@
         "chat",
         "font",
         "vars",
-        "client"
+        "client",
+        "web"
     ],
     "classMethodData": {
         "console": [
@@ -48,6 +49,9 @@
         ],
         "client": [
             "setSplash"
+        ],
+        "web":[
+            "fetch"
         ]
     },
     "types": {
@@ -76,7 +80,8 @@
         "varscreate": "vars.create(\"key\", \"string\")",
         "varsget": "vars.get(\"key\")",
         "varsremove": "vars.remove(\"key\")",
-        "clientsetSplash": "client.setSplash(\"string\")"
+        "clientsetSplash": "client.setSplash(\"string\")",
+        "webfetch":"web.fetch(\"https://example.com\")"
     },
     "returns": {
         "playerinvitemSlot": "The player's item slot",
@@ -90,7 +95,8 @@
         "playerdimension": "The player's dimension (-1 in the Nether, 0 in the overworld)",
         "playerdeathTime": "The amount of time of the remaining player should act 'dead'",
         "fontgetStringWidth": "The font's string width",
-        "varsget": "The variable's value that was set"
+        "varsget": "The variable's value that was set",
+        "webfetch:":"The site's response"
     },
     "methodDescriptions": {
         "consolesyslog": "Logs a message to the system console with default Java logging",
